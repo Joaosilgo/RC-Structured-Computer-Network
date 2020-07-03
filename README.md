@@ -134,8 +134,8 @@ SW3. Os _switches_ encontram-se ligados por cabos cruzados sendo que o _SW1_ que
 a ligação ao router (RT1) , conecta-se através de cabo direto (Imagem1).
 
 
+![alt text](/Proj_Redes/Imagens/Topologia Logica.PNG?sanitize=true "IPS logo")
 
-![GitHub Logo](/Proj_Redes/Imagens/Topologia Logica.PNG)
 
 Imagem 1 – Topologia Lógica.
 
