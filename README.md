@@ -92,3 +92,49 @@ descrita tanto na topologia física tal como num ficheiro em anexo. Na planta en
 se 15 salas (descritas na Tabela 1) tal como os respetivos postos de trabalho, tomadas
 
 duplas e portas ligadas aos _switches (Tabela 2)_.
+
+
+
+
+
+
+## 2. Justificação das VLANs
+
+
+De modo a construir uma rede estruturada, os diferentes setores da empresa
+
+foram separados por diferentes VLANs (Tabela 3 ) e cada VLAN distribuída por
+
+determinados Setores (Tabela 4).
+
+
+
+
+
+## 3. Topologia Lógica
+
+
+De forma a estruturar corretamente uma rede de computadores é necessária
+
+uma topologia lógica. A topologia lógica tem como objetivo a representação
+
+esquemática das ligações entre os diferentes dispositivos que compõem a rede.
+
+
+Nesta topologia foi definido um router (RT1) que estabelece a ligação entre a rede
+
+exterior e os diferentes dipositivos da rede interior da empresa e também do Router da
+
+sucursal (RT2). De modo a distribuir a rede por todos os dispositivos da sede XPTO foi
+
+estabelecida a necessidade de 3 _switches_ de 24 portas sendo os _switches_ SW1, SW 2 e
+
+SW3. Os _switches_ encontram-se ligados por cabos cruzados sendo que o _SW1_ que realiza
+
+a ligação ao router (RT1) , conecta-se através de cabo direto (Imagem1).
+
+
+
+![GitHub Logo](Proj_Redes/Imagens/Topologia Logica.PNG)
+Imagem 1 – Topologia Lógica.
+
