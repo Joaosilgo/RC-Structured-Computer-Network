@@ -135,7 +135,7 @@ a ligação ao router (RT1) , conecta-se através de cabo direto (Imagem1).
 
 
 
-![alt text](Proj_Redes/Imagens/Topologia Logica.png?sanitize=true "IPS logo")
+![alt text](Proj_Redes/Imagens/Topologia Logica.PNG?sanitize=true "IPS logo")
 
 
 Imagem 1 – Topologia Lógica.
